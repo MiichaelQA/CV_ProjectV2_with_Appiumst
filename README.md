@@ -1,9 +1,6 @@
-Hellow, glad to see you here on my second part of CV project for be hire at work!
+Hello, glad to see you here in the second part of my CV project to get a desired job!
 
-This project will show you my knowledge in work with Selenium WebDriver, JIRA, Appium, Android Studio, Ui Automation, Genymotion, IntelliJ IDEA, Page Object and of course GitHub!
+This project will show you my knowledge in working with Selenium WebDriver, JIRA, Appium, Android Studio, Ui Automation, Genymotion, IntelliJ IDEA, Page Object and of course GitHub!
 
-My full process of test by tools listed above was in the GIF inside CV and here I want to show exactly what are inside of my project and how it was created
-
-TestRail web page with tests runs and results https://qaautomationcvprojectgmail.testrail.io/index.php?/projects/overview/3
-
+My full process of testing by tools listed above was showed in the GIF inside CV and here you can read my code and look how was the integration of reporting in TestRail and JIRA implemented
 
