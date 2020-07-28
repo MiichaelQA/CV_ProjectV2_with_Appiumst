@@ -1,3 +1,5 @@
+# Cv_Project_with_Appium
+
 Hello, glad to see you here in the second part of my CV project!
 
 This project will show you my knowledge in working with Selenium WebDriver, JIRA, Appium, Android Studio, Ui Automation, Genymotion, IntelliJ IDEA, Page Object and of course GitHub!
